@@ -1,6 +1,6 @@
 # Credit Card Fraud Detection using Deep Learning and LSTM
 
-This project aims to detect credit card fraud using deep learning techniques, specifically Long Short-Term Memory (LSTM) architecture. The accompanying Jupyter Notebook (`project.ipynb`) provides a comprehensive overview of the implementation.
+This project aims to detect credit card fraud using deep learning techniques, specifically Long Short-Term Memory (LSTM) architecture. The accompanying Jupyter Notebook provides a comprehensive overview of the implementation.
 
 ## Project Overview
 
@@ -22,3 +22,5 @@ To explore the project, simply open the https://github.com/pranavsrinivasa/Credi
 
 Feel free to contribute, ask questions, or provide feedback to enhance the project further.
 
+# Original Code to download and Deploy model : 
+https://www.kaggle.com/code/pr4nav101/credit-card-fraud-lstm
