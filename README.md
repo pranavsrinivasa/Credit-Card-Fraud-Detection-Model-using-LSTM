@@ -22,5 +22,5 @@ To explore the project, simply open the https://github.com/pranavsrinivasa/Credi
 
 Feel free to contribute, ask questions, or provide feedback to enhance the project further.
 
-# Original Code to download and Deploy model : 
+# Link to the trained model : 
 https://www.kaggle.com/code/pr4nav101/credit-card-fraud-lstm
